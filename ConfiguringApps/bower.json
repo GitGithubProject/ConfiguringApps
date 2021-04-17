@@ -1,3 +1,7 @@
 {
-
+  "name": "asp.net",
+  "private": true,
+  "dependencies": {
+    "boostrap": "4.0.0-alpha.6"
+  }
 }
